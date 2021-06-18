@@ -1,2 +1,2 @@
 # GPA-Calculator
-GPA-Calculator with if/else/else if statements 
+GPA-Calculator with if/else if statements 
